@@ -8,5 +8,3 @@
 </p>
 
 
-
-![mostlanguages](https://github-readme-stats.vercel.app/api/top-langs?username=thejamylle&show_icons=true&locale=en&layout=compact&theme=vue-dark)
