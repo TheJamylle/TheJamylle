@@ -1,8 +1,8 @@
-<p align="left">
-  &nbsp;&nbsp;&nbsp;Olá, eu sou <b>Jamylle Magalhães</b>, e atuo como <i>Back-end Developer</i>. O meu prazer é lidar com a mais pura lógica de programação e modelagem de dados. <br><br>
-  &nbsp;&nbsp;&nbsp;Algumas das tecnologias que já utilizo em diferentes projetos são: 
-  <ul><b>Node.js, TypeScript, JavaScript, Java, .NET, C#, MySql, PostgreSql, Redis e MongoDB</b>.</ul><br><br>
-  &nbsp;&nbsp;&nbsp;Também atuo na parte de <i>Front-end</i> com <b>React JS</b> e <b>Vue.js<b/>.
+<p align="center">
+  &nbsp;&nbsp;&nbsp;Olá, eu sou <b>Jamylle Magalhães</b>, e atuo como <i>Full Stack Developer</i>. <br><br>
+  Estudo programação desde muito nova e sempre gostei de me desafiar cada vez mais na área tecnologia, seja no <i>Back-end</i> ou no <i>Front-end</i>, me aprofundo no conhecimento que for preciso. <br><br>
+  &nbsp;&nbsp;&nbsp;Algumas das linguagens e tecnologias que já utilizo em diferentes projetos são:<br>
+  <b>Node.js, TypeScript, JavaScript, React, Vue.js, Java, .NET, C#, MySql, PostgreSql, Redis e MongoDB</b>.<br>
 </p>
 <div align="center">
   <a href="https://github.com/TheJamylle">
