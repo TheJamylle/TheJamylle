@@ -1,4 +1,4 @@
-🌟 Hello! I’m <b>Jamylle Magalhães<b/>, a technology enthusiast and innovator working as a <b>Full Stack Engineer</b> with experience in building robust and scalable solutions.
+🌟 Hello! I’m <b>Jamylle Magalhães</b>, a technology enthusiast and innovator working as a <b>Full Stack Engineer</b> with experience in building robust and scalable solutions.
 
 💻 My programming journey started early, fueled by curiosity and a passion for tackling challenges in the tech world. Over the years, I’ve developed a versatile skill set, specializing in both <b>Back-end</b> and <b>Front-end</b> development, always eager to learn and dive deep into new technologies as projects demand.
 
