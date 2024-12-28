@@ -4,9 +4,9 @@
 
 🚀 Tecnologias e linguagens que já apliquei em diversos projetos:
 
-<b>Back-end:</b> Node.js, NestJS, .NET, C#, Go
-<b>Front-end:</b> React, Flutter, TypeScript, JavaScript
-<b>Bancos de dados:</b> MySQL, PostgreSQL, MongoDB, Redis
+<b>Back-end:</b> Node.js, NestJS, .NET, C#, Go<br>
+<b>Front-end:</b> React, Flutter, TypeScript, JavaScript<br>
+<b>Bancos de dados:</b> MySQL, PostgreSQL, MongoDB, Redis<br>
 
 🎯 Meu foco é criar soluções que aliem performance, usabilidade e inovação, entregando valor real para usuários e empresas.
 <div align="center">
