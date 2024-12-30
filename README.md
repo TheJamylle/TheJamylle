@@ -6,7 +6,8 @@
 
 <ul>
   <li><b>Back-end:</b> Node.js, NestJS, .NET, C#, Go</li>
-  <li><b>Front-end:</b> React, Flutter, TypeScript, JavaScript</li>
+  <li><b>Front-end:</b> React, Vue, TypeScript, JavaScript</li>
+  <li><b>Mobile:</b> React Native, Flutter, Dart</li>
   <li><b>Database:</b> MySQL, PostgreSQL, MongoDB, Redis</li>
 </ul>
 
