@@ -11,7 +11,7 @@
   <li><b>Database:</b> MySQL, PostgreSQL, MongoDB, Redis</li>
 </ul>
 
-🎯 My focus is on delivering solutions that combine performance, usability, and innovation, creating real value for users and businesses alike. If you believe in the power of technology to transform the world, we’re on the same page!
+🎯 My focus is on delivering solutions that combine performance, usability, and innovation, creating real value for users and businesses alike.
 
 🤝 Let’s connect! I’m always open to exchanging ideas, collaborating on challenging projects, or exploring new opportunities!
 <div align="center">
